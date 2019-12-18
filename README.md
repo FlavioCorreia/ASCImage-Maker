@@ -8,3 +8,13 @@ The instructions are in relatorioPDI.pdf
 janelaAsc.py is a simple GUI made with tkinter.
 
 _ascArtPro.py is were the magic happens.
+
+Example: 
+
+Original Image, Lord Of Rings
+
+![Input Image of Lord Of Rings](https://github.com/FlavioCorreia/ASCImage-Maker/blob/master/28_senhor-dos-aneis.jpg)
+
+Output Image
+
+![output Image of Lord Of Rings](https://github.com/FlavioCorreia/ASCImage-Maker/blob/master/28_ascImageFinalEqGN.png)
