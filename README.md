@@ -15,6 +15,6 @@ Original Image, Lord Of Rings
 
 ![Input Image of Lord Of Rings](https://github.com/FlavioCorreia/ASCImage-Maker/blob/master/28_senhor-dos-aneis.jpg)
 
-Output Image
+Output Image, Lord Of Rings
 
 ![output Image of Lord Of Rings](https://github.com/FlavioCorreia/ASCImage-Maker/blob/master/28_ascImageFinalEq.png)
