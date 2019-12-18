@@ -17,4 +17,4 @@ Original Image, Lord Of Rings
 
 Output Image
 
-![output Image of Lord Of Rings](https://github.com/FlavioCorreia/ASCImage-Maker/blob/master/28_ascImageFinalEqGN.png)
+![output Image of Lord Of Rings](https://github.com/FlavioCorreia/ASCImage-Maker/blob/master/28_ascImageFinalEq.png)
