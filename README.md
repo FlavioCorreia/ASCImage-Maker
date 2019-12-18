@@ -7,7 +7,7 @@ The instructions are in relatorioPDI.pdf
 
 janelaAsc.py is a simple GUI made with tkinter.
 
-_ascArtPro.py is were the magic happens.
+_ascArtPro.py is where the magic happens.
 
 Example: 
 
